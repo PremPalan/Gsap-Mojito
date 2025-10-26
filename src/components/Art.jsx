@@ -1,4 +1,4 @@
-//"use client";                                // <- add if using Next.js app/ dir
+"use client";                                // <- add if using Next.js app/ dir
 import React from "react";
 import { featureLists, goodLists } from "../../constants";
 import { useGSAP } from "@gsap/react";
